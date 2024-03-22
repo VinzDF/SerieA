@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj": {}
+    "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\SerieA.csproj": {}
   },
   "projects": {
-    "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj": {
+    "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\SerieA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj",
+        "projectUniqueName": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\SerieA.csproj",
         "projectName": "SerieA",
-        "projectPath": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj",
-        "packagesPath": "C:\\Users\\sogio\\.nuget\\packages\\",
-        "outputPath": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\obj\\",
+        "projectPath": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\SerieA.csproj",
+        "packagesPath": "C:\\Users\\Maste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sogio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

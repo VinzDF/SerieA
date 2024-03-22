@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Pages\CRUDCalciatori\" />
-    <Folder Include="Pages\CRUDSquadre\" />
   </ItemGroup>
 
   <ItemGroup>

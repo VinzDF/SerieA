@@ -1,10 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\visualStudio_c#_workspace\\serieA\\",
+  "WorkspaceRootPath": "C:\\Users\\Maste\\source\\repos\\SerieA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|d:\\visualstudio_c#_workspace\\seriea\\seriea\\models\\campionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\pages\\crudsquadre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudsquadre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\data\\serieacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\data\\serieacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\models\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\models\\campionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\campionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\maste\\source\\repos\\seriea\\seriea\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +75,194 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Index.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:37.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Index.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Index.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:27:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Delete.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:36.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Delete.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:27:36.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Details.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:36.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Details.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Details.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:27:36.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Edit.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:36.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Edit.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:27:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Create.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Create.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDSquadre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Pages\\CRUDSquadre\\Create.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDSquadre\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:27:35.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Program.cs",
+              "RelativeDocumentMoniker": "SerieA\\Program.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Program.cs",
+              "RelativeToolTip": "SerieA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:35.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SerieAContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Data\\SerieAContext.cs",
+              "RelativeDocumentMoniker": "SerieA\\Data\\SerieAContext.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Data\\SerieAContext.cs",
+              "RelativeToolTip": "SerieA\\Data\\SerieAContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:27:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calciatore.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Models\\Calciatore.cs",
+              "RelativeDocumentMoniker": "SerieA\\Models\\Calciatore.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Models\\Calciatore.cs",
+              "RelativeToolTip": "SerieA\\Models\\Calciatore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:26:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Squadra.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Models\\Squadra.cs",
+              "RelativeDocumentMoniker": "SerieA\\Models\\Squadra.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Models\\Squadra.cs",
+              "RelativeToolTip": "SerieA\\Models\\Squadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:25:48.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Campionato.cs",
-              "DocumentMoniker": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\Models\\Campionato.cs",
+              "DocumentMoniker": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Models\\Campionato.cs",
               "RelativeDocumentMoniker": "SerieA\\Models\\Campionato.cs",
-              "ToolTip": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\Models\\Campionato.cs",
+              "ToolTip": "C:\\Users\\Maste\\source\\repos\\SerieA\\SerieA\\Models\\Campionato.cs",
               "RelativeToolTip": "SerieA\\Models\\Campionato.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T10:42:10.701Z",
               "EditorCaption": ""
