@@ -26,6 +26,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\colin\ProvaGit\SerieA\SerieA
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

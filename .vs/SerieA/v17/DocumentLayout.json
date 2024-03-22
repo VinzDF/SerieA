@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\colin\\ProvaGit\\SerieA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\migrations\\20240322140834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\migrations\\20240322140834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\pages\\crudcalciatori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\pages\\crudcalciatori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\data\\serieacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\data\\serieacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\models\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|c:\\users\\colin\\provagit\\seriea\\seriea\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +71,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240322140834_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Migrations\\20240322140834_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SerieA\\Migrations\\20240322140834_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Migrations\\20240322140834_InitialCreate.cs",
+              "RelativeToolTip": "SerieA\\Migrations\\20240322140834_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:08:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Index.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:03:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Index.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Index.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:03:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:03:36.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:03:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Details.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:03:36.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Details.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Details.cshtml",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Details.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:03:35.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:03:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:03:34.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Create.cshtml.cs",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:03:34.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Create.cshtml",
+              "RelativeDocumentMoniker": "SerieA\\Pages\\CRUDCalciatori\\Create.cshtml",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Pages\\CRUDCalciatori\\Create.cshtml",
+              "RelativeToolTip": "SerieA\\Pages\\CRUDCalciatori\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T14:03:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SerieAContext.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Data\\SerieAContext.cs",
+              "RelativeDocumentMoniker": "SerieA\\Data\\SerieAContext.cs",
+              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Data\\SerieAContext.cs",
+              "RelativeToolTip": "SerieA\\Data\\SerieAContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:03:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Squadra.cs",
               "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Models\\Squadra.cs",
               "RelativeDocumentMoniker": "SerieA\\Models\\Squadra.cs",
               "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Models\\Squadra.cs",
               "RelativeToolTip": "SerieA\\Models\\Squadra.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T10:25:51.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Calciatore.cs",
               "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Models\\Calciatore.cs",
               "RelativeDocumentMoniker": "SerieA\\Models\\Calciatore.cs",

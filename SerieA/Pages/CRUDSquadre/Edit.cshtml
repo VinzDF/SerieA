@@ -1,0 +1,40 @@
+﻿@page
+@model SerieA.Pages.CRUDSquadre.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Squadra</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Squadra.Id" />
+            <div class="form-group">
+                <label asp-for="Squadra.Nome" class="control-label"></label>
+                <input asp-for="Squadra.Nome" class="form-control" />
+                <span asp-validation-for="Squadra.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Squadra.Anno" class="control-label"></label>
+                <input asp-for="Squadra.Anno" class="form-control" />
+                <span asp-validation-for="Squadra.Anno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
