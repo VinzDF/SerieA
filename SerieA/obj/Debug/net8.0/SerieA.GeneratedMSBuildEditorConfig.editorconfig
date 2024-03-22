@@ -17,79 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SerieA
 build_property.RootNamespace = SerieA
-build_property.ProjectDir = C:\Users\colin\ProvaGit\SerieA\SerieA\
+build_property.ProjectDir = D:\visualStudio_c#_workspace\seireA\SerieA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\colin\ProvaGit\SerieA\SerieA
+build_property.MSBuildProjectDirectory = D:\visualStudio_c#_workspace\seireA\SerieA
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Create.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCalciatori/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Delete.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCalciatori/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Details.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCalciatori/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Edit.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCalciatori/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDCalciatori/Index.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCalciatori/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbGNpYXRvcmlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Create.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCampionati/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbXBpb25hdGlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCampionati/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbXBpb25hdGlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCampionati/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbXBpb25hdGlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCampionati/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbXBpb25hdGlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDCampionati/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRENhbXBpb25hdGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDSquadre/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Delete.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDSquadre/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Details.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDSquadre/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Edit.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDSquadre/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/CRUDSquadre/Index.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/CRUDSquadre/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFNxdWFkcmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/Error.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/Index.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/Privacy.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/_ViewImports.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/_ViewStart.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/colin/ProvaGit/SerieA/SerieA/Pages/Shared/_Layout.cshtml]
+[D:/visualStudio_c\#_workspace/seireA/SerieA/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-31blx25a50

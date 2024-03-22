@@ -16,5 +16,6 @@ namespace SerieA.Data
 
         public DbSet<SerieA.Models.Squadra> Squadra { get; set; } = default!;
         public DbSet<SerieA.Models.Calciatore> Calciatore { get; set; } = default!;
+        public DbSet<SerieA.Models.Campionato> Campionato { get; set; } = default!;
     }
 }
