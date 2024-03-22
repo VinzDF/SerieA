@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\colin\\ProvaGit\\SerieA\\",
+  "WorkspaceRootPath": "D:\\visualStudio_c#_workspace\\serieA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Models\\Calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SerieA\\Models\\Calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|d:\\visualstudio_c#_workspace\\seriea\\seriea\\models\\campionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D20C2-9917-407C-93B1-AC1FE3A7A600}|SerieA\\SerieA.csproj|solutionrelative:seriea\\models\\campionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Calciatore.cs",
-              "DocumentMoniker": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Models\\Calciatore.cs",
-              "RelativeDocumentMoniker": "SerieA\\Models\\Calciatore.cs",
-              "ToolTip": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\Models\\Calciatore.cs",
-              "RelativeToolTip": "SerieA\\Models\\Calciatore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Title": "Campionato.cs",
+              "DocumentMoniker": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\Models\\Campionato.cs",
+              "RelativeDocumentMoniker": "SerieA\\Models\\Campionato.cs",
+              "ToolTip": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\Models\\Campionato.cs",
+              "RelativeToolTip": "SerieA\\Models\\Campionato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T10:15:05.21Z",
+              "WhenOpened": "2024-03-22T10:42:10.701Z",
               "EditorCaption": ""
             }
           ]

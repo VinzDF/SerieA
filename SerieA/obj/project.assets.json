@@ -7838,19 +7838,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\colin\\.nuget\\packages\\": {}
+    "C:\\Users\\sogio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\SerieA.csproj",
+      "projectUniqueName": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj",
       "projectName": "SerieA",
-      "projectPath": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\SerieA.csproj",
-      "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\obj\\",
+      "projectPath": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj",
+      "packagesPath": "C:\\Users\\sogio\\.nuget\\packages\\",
+      "outputPath": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sogio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7918,5 +7918,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Si è verificato un problema durante la lettura del file di cache D:\\visualStudio_c#_workspace\\serieA\\SerieA\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

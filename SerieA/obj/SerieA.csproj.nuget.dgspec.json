@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\SerieA.csproj": {}
+    "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\SerieA.csproj": {
+    "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\SerieA.csproj",
+        "projectUniqueName": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj",
         "projectName": "SerieA",
-        "projectPath": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\SerieA.csproj",
-        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colin\\ProvaGit\\SerieA\\SerieA\\obj\\",
+        "projectPath": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\SerieA.csproj",
+        "packagesPath": "C:\\Users\\sogio\\.nuget\\packages\\",
+        "outputPath": "D:\\visualStudio_c#_workspace\\serieA\\SerieA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sogio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
